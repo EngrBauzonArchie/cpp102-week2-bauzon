@@ -1,0 +1,16 @@
+LABORATORY ACTIVITY 1: ADD TWO NUMBERS 
+ALGORITHM
+STEP 1: START
+STEP 2: Ask for the first number. Name as Num1.
+STEP 3: Ask for the second number. Name as Num2.
+STEP 4: Solve for the sum = Num1 + Num2.
+STEP 5: Display the sum.
+STEP 6: END.
+
+PSEUDOCODE
+   START
+   INPUT Num1
+   INPUT Num2
+   PROCESS sum = Num1 + Num 2 
+   DISPLAY sum
+   END
