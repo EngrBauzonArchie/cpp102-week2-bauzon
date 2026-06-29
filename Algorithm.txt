@@ -1,16 +1,27 @@
-LABORATORY ACTIVITY 1: ADD TWO NUMBERS 
-ALGORITHM
-STEP 1: START
-STEP 2: Ask for the first number. Name as Num1.
-STEP 3: Ask for the second number. Name as Num2.
-STEP 4: Solve for the sum = Num1 + Num2.
-STEP 5: Display the sum.
-STEP 6: END.
+Laboratory Activity 1: Add Two Numbers.
+Algorithm
+STEP 1:Start.
+STEP 2:Ask the user to enter the first number. Store it as num1.
+STEP 3:Ask the user the second number. Store it as num2.
+STEP 4:Compute sum = num1 + num2.
+STEP 5:Display sum.
+STEP 6:End.
 
-PSEUDOCODE
-   START
-   INPUT Num1
-   INPUT Num2
-   PROCESS sum = Num1 + Num 2 
-   DISPLAY sum
-   END
+Laboratory Activity 2: Compute the average of Three Quiz Scores.
+Algorithm
+STEP 1:Start.
+STEP 2:Ask the user to enter the number. Store it as Q.score1.
+STEP 3:Ask the user to enter the second quiz score. Store it as Q.score2.
+STEP 4:Ask the user to enter the third quiz score. Store it as Q.score3.
+STEP 5:Compute sum = Q.score1 + Q.score2 + Q.score3
+STEP 6:Display average.
+STEP 7:End.
+
+Laboratory Activity 3: Determine if a Number is Even or Odd.
+Algorithm
+STEP 1:Start.
+STEP 2:Ask the user to enter the number. Store it as number.
+STEP 3:Check if number MOD 2 equals 0.
+STEP 4:If yes, display "Even".
+STEP 5:If no, display "Odd".
+STEP 6:End. 
