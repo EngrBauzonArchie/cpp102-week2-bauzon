@@ -1,4 +1,4 @@
-Archie M. Bauzon
+Archie M. Bauzon<br>
 1CPE - C
 CPP102 - Programming Logic and Design 
 Week 2 Activity: Algorithm, Pseudocode, and Flowchart
